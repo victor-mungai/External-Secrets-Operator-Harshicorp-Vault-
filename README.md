@@ -32,7 +32,6 @@ Authentication tradeoffs
 
 How ESO actually creates Kubernetes Secrets
 
-Debugging tips (and a bit of banter 😄)
 
  Read the full blog post on Medium: https://medium.com/@mungaivictor2781/i-finally-wired-hashicorp-vault-to-kubernetes-using-external-secrets-operator-and-lived-to-tell-af90b133cabb
 
